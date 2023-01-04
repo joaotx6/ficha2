@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/joaoteixeira/Desktop/Curso Dev/NET/visualStudio/lab web eduardo/ficha2/ficha2/ficha2/ficha2/ficha2.csproj",
-      "projectName": "ficha2",
-      "projectPath": "/Users/joaoteixeira/Desktop/Curso Dev/NET/visualStudio/lab web eduardo/ficha2/ficha2/ficha2/ficha2/ficha2.csproj",
+      "projectUniqueName": "/Users/joaoteixeira/Desktop/Curso Dev/NET/visualStudio/lab web eduardo/ficha2/ficha2/ficha2/libraryTeste/libraryTeste.csproj",
+      "projectName": "libraryTeste",
+      "projectPath": "/Users/joaoteixeira/Desktop/Curso Dev/NET/visualStudio/lab web eduardo/ficha2/ficha2/ficha2/libraryTeste/libraryTeste.csproj",
       "packagesPath": "/Users/joaoteixeira/.nuget/packages/",
-      "outputPath": "/Users/joaoteixeira/Desktop/Curso Dev/NET/visualStudio/lab web eduardo/ficha2/ficha2/ficha2/ficha2/obj/",
+      "outputPath": "/Users/joaoteixeira/Desktop/Curso Dev/NET/visualStudio/lab web eduardo/ficha2/ficha2/ficha2/libraryTeste/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/joaoteixeira/.nuget/NuGet/NuGet.Config"

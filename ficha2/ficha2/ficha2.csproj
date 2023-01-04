@@ -11,10 +11,14 @@
     <Compile Remove="exer1.cs" />
     <Compile Remove="exer2.cs" />
     <Compile Remove="exer3.cs" />
+    <Compile Remove="fibonacci.cs" />
+    <Compile Remove="exer5.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="exer1.cs" Condition=" '$(EnableDefaultCompileItems)' == 'true' " />
     <None Include="exer2.cs" />
     <None Include="exer3.cs" />
+    <None Include="fibonacci.cs" />
+    <None Include="exer5.cs" />
   </ItemGroup>
 </Project>

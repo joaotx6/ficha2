@@ -13,3 +13,18 @@
 /Users/joaoteixeira/Desktop/ficha2/ficha2/ficha2/obj/Debug/net7.0/ficha2.pdb
 /Users/joaoteixeira/Desktop/ficha2/ficha2/ficha2/obj/Debug/net7.0/ficha2.genruntimeconfig.cache
 /Users/joaoteixeira/Desktop/ficha2/ficha2/ficha2/obj/Debug/net7.0/ref/ficha2.dll
+/Users/joaoteixeira/Desktop/Curso Dev/NET/visualStudio/lab web eduardo/ficha2/ficha2/ficha2/ficha2/bin/Debug/net7.0/ficha2
+/Users/joaoteixeira/Desktop/Curso Dev/NET/visualStudio/lab web eduardo/ficha2/ficha2/ficha2/ficha2/bin/Debug/net7.0/ficha2.deps.json
+/Users/joaoteixeira/Desktop/Curso Dev/NET/visualStudio/lab web eduardo/ficha2/ficha2/ficha2/ficha2/bin/Debug/net7.0/ficha2.runtimeconfig.json
+/Users/joaoteixeira/Desktop/Curso Dev/NET/visualStudio/lab web eduardo/ficha2/ficha2/ficha2/ficha2/bin/Debug/net7.0/ficha2.dll
+/Users/joaoteixeira/Desktop/Curso Dev/NET/visualStudio/lab web eduardo/ficha2/ficha2/ficha2/ficha2/bin/Debug/net7.0/ficha2.pdb
+/Users/joaoteixeira/Desktop/Curso Dev/NET/visualStudio/lab web eduardo/ficha2/ficha2/ficha2/ficha2/obj/Debug/net7.0/ficha2.csproj.AssemblyReference.cache
+/Users/joaoteixeira/Desktop/Curso Dev/NET/visualStudio/lab web eduardo/ficha2/ficha2/ficha2/ficha2/obj/Debug/net7.0/ficha2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoteixeira/Desktop/Curso Dev/NET/visualStudio/lab web eduardo/ficha2/ficha2/ficha2/ficha2/obj/Debug/net7.0/ficha2.AssemblyInfoInputs.cache
+/Users/joaoteixeira/Desktop/Curso Dev/NET/visualStudio/lab web eduardo/ficha2/ficha2/ficha2/ficha2/obj/Debug/net7.0/ficha2.AssemblyInfo.cs
+/Users/joaoteixeira/Desktop/Curso Dev/NET/visualStudio/lab web eduardo/ficha2/ficha2/ficha2/ficha2/obj/Debug/net7.0/ficha2.csproj.CoreCompileInputs.cache
+/Users/joaoteixeira/Desktop/Curso Dev/NET/visualStudio/lab web eduardo/ficha2/ficha2/ficha2/ficha2/obj/Debug/net7.0/ficha2.dll
+/Users/joaoteixeira/Desktop/Curso Dev/NET/visualStudio/lab web eduardo/ficha2/ficha2/ficha2/ficha2/obj/Debug/net7.0/refint/ficha2.dll
+/Users/joaoteixeira/Desktop/Curso Dev/NET/visualStudio/lab web eduardo/ficha2/ficha2/ficha2/ficha2/obj/Debug/net7.0/ficha2.pdb
+/Users/joaoteixeira/Desktop/Curso Dev/NET/visualStudio/lab web eduardo/ficha2/ficha2/ficha2/ficha2/obj/Debug/net7.0/ficha2.genruntimeconfig.cache
+/Users/joaoteixeira/Desktop/Curso Dev/NET/visualStudio/lab web eduardo/ficha2/ficha2/ficha2/ficha2/obj/Debug/net7.0/ref/ficha2.dll

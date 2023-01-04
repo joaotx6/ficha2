@@ -5,7 +5,6 @@ namespace ficha2
 	{
         static void Main(string[] args)
         {
-
             double tempC = 0;
 
             Console.WriteLine("Insira o valor da temp");
